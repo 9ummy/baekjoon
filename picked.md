@@ -1,3 +1,12 @@
+## 2021/09/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15992](https://www.acmicpc.net/problem/15992) | [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2021/09/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -734,7 +743,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [19532](https://www.acmicpc.net/problem/19532) | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19641](https://www.acmicpc.net/problem/19641) | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
 
 ## 2021/06/20 
 
