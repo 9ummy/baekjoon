@@ -1,3 +1,12 @@
+## 2021/09/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16195](https://www.acmicpc.net/problem/16195) | [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16235](https://www.acmicpc.net/problem/16235) | [나무 재테크](https://www.acmicpc.net/problem/16235) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2109](https://www.acmicpc.net/problem/2109) | [순회강연](https://www.acmicpc.net/problem/2109) |
+
 ## 2021/09/13 
 
 | 난이도 | 번호 | 문제 이름 |
