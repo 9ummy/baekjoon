@@ -1,3 +1,12 @@
+## 2021/09/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17485](https://www.acmicpc.net/problem/17485) | [진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1238](https://www.acmicpc.net/problem/1238) | [파티](https://www.acmicpc.net/problem/1238) |
+
 ## 2021/09/27 
 
 | 난이도 | 번호 | 문제 이름 |
