@@ -1,3 +1,12 @@
+## 2021/10/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1302](https://www.acmicpc.net/problem/1302) | [베스트셀러](https://www.acmicpc.net/problem/1302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2573](https://www.acmicpc.net/problem/2573) | [빙산](https://www.acmicpc.net/problem/2573) |
+
 ## 2021/10/07 
 
 | 난이도 | 번호 | 문제 이름 |
