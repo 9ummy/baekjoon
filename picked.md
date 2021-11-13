@@ -1,3 +1,12 @@
+## 2021/11/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2230](https://www.acmicpc.net/problem/2230) | [수 고르기](https://www.acmicpc.net/problem/2230) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2467](https://www.acmicpc.net/problem/2467) | [용액](https://www.acmicpc.net/problem/2467) |
+
 ## 2021/11/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1407,7 +1416,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13023](https://www.acmicpc.net/problem/13023) | [ABCDE](https://www.acmicpc.net/problem/13023) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
 
