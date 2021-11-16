@@ -1,3 +1,12 @@
+## 2021/11/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17124](https://www.acmicpc.net/problem/17124) | [두 개의 배열](https://www.acmicpc.net/problem/17124) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2194](https://www.acmicpc.net/problem/2194) | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) |
+
 ## 2021/11/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -56,7 +65,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17212](https://www.acmicpc.net/problem/17212) | [달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2565](https://www.acmicpc.net/problem/2565) | [전깃줄](https://www.acmicpc.net/problem/2565) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2671](https://www.acmicpc.net/problem/2671) | [잠수함식별](https://www.acmicpc.net/problem/2671) |
