@@ -1,3 +1,12 @@
+## 2021/11/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1003](https://www.acmicpc.net/problem/1003) | [피보나치 함수](https://www.acmicpc.net/problem/1003) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2168](https://www.acmicpc.net/problem/2168) | [타일 위의 대각선](https://www.acmicpc.net/problem/2168) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2178](https://www.acmicpc.net/problem/2178) | [미로 탐색](https://www.acmicpc.net/problem/2178) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1025](https://www.acmicpc.net/problem/1025) | [제곱수 찾기](https://www.acmicpc.net/problem/1025) |
+
 ## 2021/11/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -678,7 +687,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17069](https://www.acmicpc.net/problem/17069) | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2263](https://www.acmicpc.net/problem/2263) | [트리의 순회](https://www.acmicpc.net/problem/2263) |
 
