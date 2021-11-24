@@ -1,3 +1,12 @@
+## 2021/11/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2118](https://www.acmicpc.net/problem/2118) | [두 개의 탑](https://www.acmicpc.net/problem/2118) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2156](https://www.acmicpc.net/problem/2156) | [포도주 시식](https://www.acmicpc.net/problem/2156) |
+
 ## 2021/11/24 
 
 | 난이도 | 번호 | 문제 이름 |
