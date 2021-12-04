@@ -1,3 +1,12 @@
+## 2021/12/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1935](https://www.acmicpc.net/problem/1935) | [후위 표기식2](https://www.acmicpc.net/problem/1935) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1189](https://www.acmicpc.net/problem/1189) | [컴백홈](https://www.acmicpc.net/problem/1189) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
+
 ## 2021/12/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -192,7 +201,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11508](https://www.acmicpc.net/problem/11508) | [2+1 세일](https://www.acmicpc.net/problem/11508) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2493](https://www.acmicpc.net/problem/2493) | [탑](https://www.acmicpc.net/problem/2493) |
 
