@@ -1,3 +1,8 @@
+## 2021/12/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -802,7 +807,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16236](https://www.acmicpc.net/problem/16236) | [아기 상어](https://www.acmicpc.net/problem/16236) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
