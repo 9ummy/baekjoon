@@ -1,3 +1,8 @@
+## 2022/01/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/09 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -557,7 +562,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2164](https://www.acmicpc.net/problem/2164) | [카드2](https://www.acmicpc.net/problem/2164) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17276](https://www.acmicpc.net/problem/17276) | [배열 돌리기](https://www.acmicpc.net/problem/17276) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17276](https://www.acmicpc.net/problem/17276) | [배열 돌리기](https://www.acmicpc.net/problem/17276) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17615](https://www.acmicpc.net/problem/17615) | [볼 모으기](https://www.acmicpc.net/problem/17615) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
 
