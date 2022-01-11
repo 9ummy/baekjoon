@@ -1,3 +1,8 @@
+## 2022/01/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/11 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -845,7 +850,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/> | [9548](https://www.acmicpc.net/problem/9548) | [무제](https://www.acmicpc.net/problem/9548) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/20.svg"/> | [9548](https://www.acmicpc.net/problem/9548) | [무제](https://www.acmicpc.net/problem/9548) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17396](https://www.acmicpc.net/problem/17396) | [백도어](https://www.acmicpc.net/problem/17396) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1613](https://www.acmicpc.net/problem/1613) | [역사](https://www.acmicpc.net/problem/1613) |
@@ -1207,7 +1212,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10546](https://www.acmicpc.net/problem/10546) | [배부른 마라토너](https://www.acmicpc.net/problem/10546) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17616](https://www.acmicpc.net/problem/17616) | [등수 찾기](https://www.acmicpc.net/problem/17616) |
 
 ## 2021/08/13 
