@@ -1,3 +1,8 @@
+## 2022/03/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -987,7 +992,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2670](https://www.acmicpc.net/problem/2670) | [연속부분최대곱](https://www.acmicpc.net/problem/2670) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1106](https://www.acmicpc.net/problem/1106) | [호텔](https://www.acmicpc.net/problem/1106) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17085](https://www.acmicpc.net/problem/17085) | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
 
 ## 2021/10/16 
 
