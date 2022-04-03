@@ -1,3 +1,8 @@
+## 2022/04/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/04/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -770,7 +775,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11561](https://www.acmicpc.net/problem/11561) | [징검다리](https://www.acmicpc.net/problem/11561) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2469](https://www.acmicpc.net/problem/2469) | [사다리 타기](https://www.acmicpc.net/problem/2469) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2469](https://www.acmicpc.net/problem/2469) | [사다리 타기](https://www.acmicpc.net/problem/2469) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2212](https://www.acmicpc.net/problem/2212) | [센서](https://www.acmicpc.net/problem/2212) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
 
