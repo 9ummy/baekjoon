@@ -1,3 +1,8 @@
+## 2022/05/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/05/17 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -875,7 +880,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1553](https://www.acmicpc.net/problem/1553) | [도미노 찾기](https://www.acmicpc.net/problem/1553) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
 
 ## 2021/11/28 
 
@@ -1854,7 +1859,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [18500](https://www.acmicpc.net/problem/18500) | [미네랄 2](https://www.acmicpc.net/problem/18500) |
 
