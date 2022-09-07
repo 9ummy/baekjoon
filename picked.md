@@ -1,3 +1,8 @@
+## 2022/09/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1727,7 +1732,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2776](https://www.acmicpc.net/problem/2776) | [암기왕](https://www.acmicpc.net/problem/2776) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21315](https://www.acmicpc.net/problem/21315) | [카드 섞기](https://www.acmicpc.net/problem/21315) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1715](https://www.acmicpc.net/problem/1715) | [카드 정렬하기](https://www.acmicpc.net/problem/1715) |
 
 ## 2021/10/27 
@@ -2806,7 +2811,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [18258](https://www.acmicpc.net/problem/18258) | [큐 2](https://www.acmicpc.net/problem/18258) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5904](https://www.acmicpc.net/problem/5904) | [Moo 게임](https://www.acmicpc.net/problem/5904) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19566](https://www.acmicpc.net/problem/19566) | [수열의 구간 평균](https://www.acmicpc.net/problem/19566) |
 
