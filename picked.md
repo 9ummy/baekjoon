@@ -1,3 +1,8 @@
+## 2022/09/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1820,7 +1825,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2217](https://www.acmicpc.net/problem/2217) | [로프](https://www.acmicpc.net/problem/2217) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1749](https://www.acmicpc.net/problem/1749) | [점수따먹기](https://www.acmicpc.net/problem/1749) |
 
 ## 2021/10/24 
@@ -2746,7 +2751,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4811](https://www.acmicpc.net/problem/4811) | [알약](https://www.acmicpc.net/problem/4811) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4811](https://www.acmicpc.net/problem/4811) | [알약](https://www.acmicpc.net/problem/4811) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14719](https://www.acmicpc.net/problem/14719) | [빗물](https://www.acmicpc.net/problem/14719) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16724](https://www.acmicpc.net/problem/16724) | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |
 
@@ -3070,7 +3075,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2231) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5052](https://www.acmicpc.net/problem/5052) | [전화번호 목록](https://www.acmicpc.net/problem/5052) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
 
