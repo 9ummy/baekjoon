@@ -1,3 +1,8 @@
+## 2023/01/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/08 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2263,7 +2268,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2667](https://www.acmicpc.net/problem/2667) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
@@ -3865,7 +3870,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [5618](https://www.acmicpc.net/problem/5618) | [공약수](https://www.acmicpc.net/problem/5618) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [5618](https://www.acmicpc.net/problem/5618) | [공약수](https://www.acmicpc.net/problem/5618) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20950](https://www.acmicpc.net/problem/20950) | [미술가 미미](https://www.acmicpc.net/problem/20950) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16890](https://www.acmicpc.net/problem/16890) | [창업](https://www.acmicpc.net/problem/16890) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14657](https://www.acmicpc.net/problem/14657) | [준오는 최종인재야!!](https://www.acmicpc.net/problem/14657) |
