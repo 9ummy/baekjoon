@@ -1,3 +1,8 @@
+## 2023/01/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2036,7 +2041,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15654](https://www.acmicpc.net/problem/15654) | [N과 M (5)](https://www.acmicpc.net/problem/15654) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1309](https://www.acmicpc.net/problem/1309) | [동물원](https://www.acmicpc.net/problem/1309) |
